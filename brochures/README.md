@@ -1,4 +1,4 @@
-# University Program Brochures — Eidee Tan · Fall 2027 Entry
+# University Program Brochures — Fall 2027 Entry
 
 Twelve family-facing program dossiers, one per university, each covering the big picture of the school and the details of the specific program pathway under consideration. Each brochure exists as Markdown (renders on GitHub) and as a print-ready PDF.
 
