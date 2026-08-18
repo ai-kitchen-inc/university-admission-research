@@ -63,10 +63,12 @@ Contribution ("what would you contribute"): an operating habit shown at work, no
 Fit (why us, why this major): a continuation of work already underway. Named specifics from the dossier, each attached to something you have already done.
 
 A set written entirely in one register reads as performed, even when every piece is true.
+
 8. Cold drafting (new — formalizes what was already practice)
 Claude's drafts supply facts, structure, transitions, and shape. Descriptive, sensory and emotional language is Eidee's. Where a scene is needed and the files do not contain it, the draft does not invent it and does not leave a bare blank. It states a requisition: the shape of the scene, its length, what it must contain, what it must not do, and the specific way it could go wrong.
 
 And the hard rule: a placeholder may not carry an essay. If deleting every placeholder leaves the piece hollow, the piece is not a draft yet. The v1 roommate note outsourced its entire warmth budget to three empty parentheses, and with them removed there was nothing warm left. That is what capped it.
+
 9. No maxim without a route (new)
 An insight that arrives finished reads as a conclusion inherited from somewhere. An insight the reader watches being formed reads as a mind.
 
@@ -76,16 +78,19 @@ If a piece contains no turn, it does not get a maxim. It ends on the concrete th
 Applies at every length. A fifty-word answer cannot carry a full arc, but it can carry one object that is yours instead of one opinion that is everyone's.
 
 The keynote test. Read any sentence of conviction in the voice of a well-known speaker. If it sounds at home there, it is not yours yet, however true it is. Route it through something you have touched.
+
 10. Don't repeat a rhetorical move (new)
 One construction may appear at most twice across a whole school's set, and at most once in any single piece. The repeat offender is the antithetical couplet: "the danger isn't X, it's Y," "not a cause, a habit," "I thought I was building X, I was building Y," "that looks like quitting, it is not." Each one is good. Six in seven hundred words is a template, and readers now associate the pattern with generated text.
 
 Also budgeted: three-item lists, one-word fragments for emphasis, repeated sentence openings, and the staccato inventory. Keep the best instance, rewrite the rest as ordinary sentences.
+
 11. Let the reader see something (new)
 Across a school's whole set: at least one line of actual quoted speech, at least three things a camera could photograph, and at least one sound. At least one physical anchor in each long essay.
 
 This is easy to fail without noticing. A set can be full of precise numbers, dates and mechanisms and still contain no room, no voice and no sound, so a reader finishes it without having seen anything. Numbers prove the work happened; anchors make it present. Both are scored, and for a musician submitting a performance portfolio, a set where nobody can hear anything is a strange silence.
 
 Proportionality: spend this in the long pieces. A fifty-word answer should stay dense.
+
 12. Never brag through a flaw (new)
 Any time a flaw sits next to an achievement, the pairing is structurally a humblebrag, and research finds humblebrags are liked less than straight statements and less than straight complaints. It survives only under four conditions:
 
@@ -93,6 +98,7 @@ The flaw is the subject; the achievement is scenery. If the paragraph builds tow
 Never characterize the quality of your own work. Cut "flawlessly," "perfectly," and every synonym. The instrument enters as an object you left somewhere, not as evidence.
 Never write the "and yet" sentence. Naming the contrast is what converts it into self-promotion. Let the reader do the arithmetic; they will, and they will enjoy having done it.
 It has to cost you something. If the flaw is one you are secretly proud of, a reader on essay number forty will smell it.
+
 13. Verify before you build, not after (new)
 Two tiers.
 
